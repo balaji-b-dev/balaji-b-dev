@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I am Balaji B
+#### I am  a web developer with 2.5 years of experience in web development.
+![I am  a web developer with 2.5 years of experience in web development.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**balaji-b-dev/balaji-b-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Here are some ideas to get you started:
+Skills: WEB / JAVA/ SPRING/MICRO SERVICES / HINBERNATE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: +91 88389 20026 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/balaji-b-dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/balaji-balakrishnan-144580116/)  
+
+![Profile views](https://gpvc.arturio.dev/balaji-b-dev)  
