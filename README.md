@@ -1,6 +1,8 @@
+(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 ### Hi there 👋, I am Balaji B
 #### I am  a web developer with 2.5 years of experience in web development.
-![I am  a web developer with 2.5 years of experience in web development.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am  a web developer with 2.5 years of experience in web development.]
 
 Java developer with  2.5 years of experience in website development.
 Experience with frameworks like Spring, spring boot  in developing Java based enterprise level applications
