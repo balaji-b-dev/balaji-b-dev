@@ -1,4 +1,4 @@
-![I am  a web developer with 2.5 years of experience in web development.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am  a web developer with 2.5 years of experience in web development.](https://github.com/balaji-b-dev/balaji-b-dev/blob/main/BALAJI%20B%20.png)
 
 ### Hi there 👋, I am Balaji B
 #### I am  a web developer with 2.5 years of experience in web development.
